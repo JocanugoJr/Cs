@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Treinamento-Cs\exercicios1\OO1\Comeco_OO\Comeco_OO\bin\Debug\net5.0\Comeco_OO.exe
+C:\Users\User\Desktop\Treinamento-Cs\exercicios1\OO1\Comeco_OO\Comeco_OO\bin\Debug\net5.0\Comeco_OO.deps.json
+C:\Users\User\Desktop\Treinamento-Cs\exercicios1\OO1\Comeco_OO\Comeco_OO\bin\Debug\net5.0\Comeco_OO.runtimeconfig.json
+C:\Users\User\Desktop\Treinamento-Cs\exercicios1\OO1\Comeco_OO\Comeco_OO\bin\Debug\net5.0\Comeco_OO.runtimeconfig.dev.json
+C:\Users\User\Desktop\Treinamento-Cs\exercicios1\OO1\Comeco_OO\Comeco_OO\bin\Debug\net5.0\Comeco_OO.dll
+C:\Users\User\Desktop\Treinamento-Cs\exercicios1\OO1\Comeco_OO\Comeco_OO\bin\Debug\net5.0\ref\Comeco_OO.dll
+C:\Users\User\Desktop\Treinamento-Cs\exercicios1\OO1\Comeco_OO\Comeco_OO\bin\Debug\net5.0\Comeco_OO.pdb
+C:\Users\User\Desktop\Treinamento-Cs\exercicios1\OO1\Comeco_OO\Comeco_OO\obj\Debug\net5.0\Comeco_OO.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Treinamento-Cs\exercicios1\OO1\Comeco_OO\Comeco_OO\obj\Debug\net5.0\Comeco_OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Treinamento-Cs\exercicios1\OO1\Comeco_OO\Comeco_OO\obj\Debug\net5.0\Comeco_OO.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Treinamento-Cs\exercicios1\OO1\Comeco_OO\Comeco_OO\obj\Debug\net5.0\Comeco_OO.AssemblyInfo.cs
+C:\Users\User\Desktop\Treinamento-Cs\exercicios1\OO1\Comeco_OO\Comeco_OO\obj\Debug\net5.0\Comeco_OO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Treinamento-Cs\exercicios1\OO1\Comeco_OO\Comeco_OO\obj\Debug\net5.0\Comeco_OO.dll
+C:\Users\User\Desktop\Treinamento-Cs\exercicios1\OO1\Comeco_OO\Comeco_OO\obj\Debug\net5.0\ref\Comeco_OO.dll
+C:\Users\User\Desktop\Treinamento-Cs\exercicios1\OO1\Comeco_OO\Comeco_OO\obj\Debug\net5.0\Comeco_OO.pdb
+C:\Users\User\Desktop\Treinamento-Cs\exercicios1\OO1\Comeco_OO\Comeco_OO\obj\Debug\net5.0\Comeco_OO.genruntimeconfig.cache
